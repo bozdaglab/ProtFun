@@ -13,7 +13,8 @@ architecture using two benchmark datasets.
 ## How to Run ProtFun
 
 1. **Generate Sequence-Based Embeddings**  
-   Protein embeddings were generated using [ANKH](https://github.com/agemagician/Ankh) LLM using protein sequences  
+   Protein embeddings were generated using [ANKH](https://github.com/agemagician/Ankh) LLM using protein sequences.
+
    -[Run Notebook: 01_LLM_embeddigns.ipynb](Notebooks/01_LLM_embeddigns.ipynb)
 
 2. **Binary Vector Representation of Proteins**  
@@ -26,9 +27,9 @@ architecture using two benchmark datasets.
     We constructed a protein family network where node (protein) features were obtained from a protein LLM [Sequence-Based Embeddings](Notebooks/01_LLM_embeddigns.ipynb).
     Applying GAT on this network, we learned protein embeddings, which were concatenated with the latent representation of protein signatures [Binary Vector Representation](Notebooks/02_Binary_protein_signatures.ipynb) from InterPro to train a protein function prediction model. The performance of **ProtFun** on DeepGOZero dataset in predicting MFO, BPO, and CCO terms as follows:
     
-    - [MFO Evaluation: mf_deepgozero.ipynb][Notebooks/mf_deepgozero.ipynb]
-    - [BPO Evaluation: bp_deepgozero.ipynb][Notebooks/bp_deepgozero.ipynb]
-    - [CCO Evaluation: cc_deepgozero.ipynb][Notebooks/cc_deepgozero.ipynb]
+    - [MFO Evaluation: mf_deepgozero.ipynb](Notebooks/mf_deepgozero.ipynb)
+    - [BPO Evaluation: bp_deepgozero.ipynb](Notebooks/bp_deepgozero.ipynb)
+    - [CCO Evaluation: cc_deepgozero.ipynb](Notebooks/cc_deepgozero.ipynb)
 
 ## Datasets
 

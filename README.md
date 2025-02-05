@@ -35,7 +35,7 @@ architecture using two benchmark datasets.
 
 ## Datasets
 
-The benchmark datasets are available in the [datasets](datasets) folder for direct access. They were obtained from [deepgozero](https://deepgo.cbrc.kaust.edu.sa/data/deepgozero/) repository. 
+The datasets are available in the [datasets](datasets) folder for direct access. They were obtained from [deepgozero](https://deepgo.cbrc.kaust.edu.sa/data/deepgozero/) repository. 
 
 ## Installation Guide
 

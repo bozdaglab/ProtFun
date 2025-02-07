@@ -27,7 +27,7 @@ architecture using two benchmark datasets.
     We constructed a protein family network where node (protein) features [(Step 1: Sequence-Based Embeddings)](Notebooks/01_LLM_embeddigns.ipynb) were obtained from a protein LLM.
     Applying GAT on this network, we learned protein embeddings, which were concatenated with the latent representation of protein signatures [(Step 2: Binary Vector Representation)](Notebooks/02_Binary_protein_signatures.ipynb) from InterPro to train a protein function prediction model. 
     
-    The performance of **ProtFun** on DeepGOZero dataset in predicting MFO, BPO, and CCO terms as follows:
+    The performance of **ProtFun** in predicting MFO, BPO, and CCO terms on DeepGOZero dataset as follows:
     
     - [MFO Evaluation: mf.ipynb](Notebooks/mf.ipynb)
     - [BPO Evaluation: bp.ipynb](Notebooks/bp.ipynb)

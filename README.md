@@ -29,8 +29,8 @@ architecture using two benchmark datasets.
     
     The performance of **ProtFun** on DeepGOZero dataset in predicting MFO, BPO, and CCO terms as follows:
     
-    - [MFO Evaluation: mf_deepgozero.ipynb](Notebooks/mf_deepgozero.ipynb)
-    - [BPO Evaluation: bp_deepgozero.ipynb](Notebooks/bp_deepgozero.ipynb)
+    - [MFO Evaluation: mf.ipynb](Notebooks/mf_deepgozero.ipynb)
+    - [BPO Evaluation: bp.ipynb](Notebooks/bp_deepgozero.ipynb)
     - [CCO Evaluation: cc_deepgozero.ipynb](Notebooks/cc_deepgozero.ipynb)
 
 ## Datasets

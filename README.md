@@ -31,7 +31,7 @@ architecture using two benchmark datasets.
     
     - [MFO Evaluation: mf.ipynb](Notebooks/mf_deepgozero.ipynb)
     - [BPO Evaluation: bp.ipynb](Notebooks/bp_deepgozero.ipynb)
-    - [CCO Evaluation: cc_deepgozero.ipynb](Notebooks/cc_deepgozero.ipynb)
+    - [CCO Evaluation: cc.ipynb](Notebooks/cc_deepgozero.ipynb)
 
 ## Datasets
 

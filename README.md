@@ -45,5 +45,8 @@ The provided `environment.yml` file can be used to create the required Conda env
 ```bash
 conda env create -f environment.yml
 conda activate prot_fun
+
+
+[![HitCount](https://hits.dwyl.com/bozdaglab/Top_DTI.svg?style=flat-square)](http://hits.dwyl.com/bozdaglab/ProtFun)
      
 

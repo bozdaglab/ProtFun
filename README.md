@@ -2,6 +2,8 @@
 
 ![Top-DTI Overview](images/pipeline.png)
 
+[![HitCount](https://hits.dwyl.com/bozdaglab/Top_DTI.svg?style=flat-square)](http://hits.dwyl.com/bozdaglab/ProtFun)
+
 ## ProtFun
 
 We propose a multi-modal deep learning architecture called **ProtFun** to predict protein functions. ProtFun
@@ -47,6 +49,6 @@ conda env create -f environment.yml
 conda activate prot_fun
 
 
-[![HitCount](https://hits.dwyl.com/bozdaglab/Top_DTI.svg?style=flat-square)](http://hits.dwyl.com/bozdaglab/ProtFun)
+
      
 

@@ -1,3 +1,7 @@
+[![Hits](https://hits.sh/github.com/bozdaglab/ProtFun.svg)](https://hits.sh/github.com/bozdaglab/ProtFun/)
+
+
+
 ## ProtFun: A Protein Function Prediction Model Using Graph Attention Networks with a Protein Large Language Model
 
 ![ProtFun Overview](images/pipeline.png)

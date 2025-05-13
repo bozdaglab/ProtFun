@@ -1,8 +1,7 @@
 ## ProtFun: A Protein Function Prediction Model Using Graph Attention Networks with a Protein Large Language Model
 
-![Top-DTI Overview](images/pipeline.png)
+![ProtFun Overview](images/pipeline.png)
 
-[![HitCount](https://hits.dwyl.com/bozdaglab/Top_DTI.svg?style=flat-square)](http://hits.dwyl.com/bozdaglab/ProtFun)
 
 ## ProtFun
 
